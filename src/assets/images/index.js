@@ -1,0 +1,1 @@
+export {default as Walking } from './walking.svg';
